@@ -10,7 +10,7 @@ git add .
 git commit -m"${message}"
 if [ -n "$(git status - porcelain)" ];
 then
- echo "IT IS CLEAN l"
+#  echo "IT IS CLEAN l"
  git push -u origin master
 else
  git status
