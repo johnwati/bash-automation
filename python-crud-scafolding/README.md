@@ -1,7 +1,7 @@
 Accelerate Your Project Setup: Automating Architecture and Scaffolding with Bash
 ================================================================================
 
-    Github: [https](https://github.com/johnwati/bash-automation/edit/main/python-crud-scafolding
+    Github: https://github.com/johnwati/bash-automation/edit/main/python-crud-scafolding
 
 **Are you tired of repetitive setup tasks when starting new projects?** Manually creating folder structures, environment configurations, and boilerplate code is not only time-consuming but also prone to errors. To overcome this, I created a **Bash script** that automates project scaffolding and sets up a robust architecture, enabling faster, more consistent project starts.
 
